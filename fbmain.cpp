@@ -375,8 +375,8 @@ void intro()
 	textcolor(105);
 	textbackground(104);
 	cout<<"\n\n\n\t\t  BANK MANAGEMENT SYSTEM";
-	cout<<"\n\n\n\nMADE BY : ASHUTOSH TRIPATHI && NIKHIL YADAV";
-	cout<<"\n\nSCHOOL : CENTRAL ACADEMY SENIOR SECONDARY SCHOOL";
+	cout<<"\n\n\n\nMADE BY : ASHUTOSH TRIPATHI";
+	cout<<"\n\nSCHOOL : WebMedia Incorporation";
 	getch();
 }
 
